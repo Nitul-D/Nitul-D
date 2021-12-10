@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitul-d&label=Profile%20views&color=0e75b6&style=flat" alt="nitul-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitul-d" alt="nitul-d" /></a> </p>
+
 
 - 📫 How to reach me **nituldutta543@gmail.com**
 
